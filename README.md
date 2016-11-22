@@ -18,3 +18,6 @@ http://stackoverflow.com/questions/6482377/check-existence-of-input-argument-in-
 
 #### Check owner of directory or file
 http://unix.stackexchange.com/questions/7730/find-the-owner-of-a-directory-or-file-but-only-return-that-and-nothing-else
+
+#### How to set a variable equal to the output from a command in bash
+http://stackoverflow.com/questions/4651437/how-to-set-a-variable-equal-to-the-output-from-a-command-in-bash
