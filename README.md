@@ -15,3 +15,6 @@ http://stackoverflow.com/questions/6212219/passing-parameters-to-a-bash-function
 
 #### Check Existence of input argument
 http://stackoverflow.com/questions/6482377/check-existence-of-input-argument-in-a-bash-shell-script
+
+#### Check owner of directory or file
+http://unix.stackexchange.com/questions/7730/find-the-owner-of-a-directory-or-file-but-only-return-that-and-nothing-else
